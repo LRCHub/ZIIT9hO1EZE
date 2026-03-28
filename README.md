@@ -1,0 +1,74 @@
+# BENNETT – Vois sur ton chemin (Techno Mix)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.67] Vois sur ton chemin, gamins oubliés, égarés
+[00:07.55] Donne-leur la main pour les mener vers d'autres lendemains
+[00:09.53] (Donne-leur la main pour les mener vers d'autres lendemains)
+[00:39.53] 
+[00:10.90] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:13.15] L'onde d'espoir, ardeur de la vie
+[00:15.41] Sentier de gloire
+[00:16.87] (Ardeur de la vie, de la vie)
+[00:19.61] (Sentier de gloire, sentier de gloire)
+[00:38.61] 
+[00:20.96] Bonheurs enfantins, trop vite oubliés, effacés
+[00:21.38] Une lumière dorée brille sans fin tout au bout du chemin
+[00:23.59] (Vite oubliés, effacés)
+[00:23.67] (Une lumière dorée brille sans fin)
+[00:41.17] 
+[00:24.20] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:25.83] L'onde d'espoir
+[00:26.11] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:27.61] L'onde d'espoir
+[00:27.78] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:29.10] L'onde d'espoir
+[00:29.35] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:30.65] L'onde d'espoir
+[00:38.15] 
+[00:30.85] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:34.65] L'onde d'espoir
+[00:34.88] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:45.52] L'onde d'espoir
+[00:48.72] Sens, au cœur de la nuit (au cœur de la nuit)
+[00:51.43] L'onde d'espoir
+[00:58.93] 
+[01:01.18] Ardeur de la vie
+[01:02.13] Sentier de gloire
+[01:03.60] (Ardeur de la vie, de la vie)
+[01:05.12] (Sentier de gloire, sentier de gloire)
+[01:24.12] 
+[01:06.23] Vois sur ton chemin, gamins oubliés, égarés
+[01:15.48] Donne-leur la main pour les mener vers d'autres lendemains
+[01:19.87] (Donne-leur la main pour les mener vers d'autres lendemains)
+[01:49.87] 
+[01:21.85] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:22.79] L'onde d'espoir
+[01:25.33] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:36.67] L'onde d'espoir
+[01:39.26] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:42.75] L'onde d'espoir
+[01:43.83] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:48.05] L'onde d'espoir
+[01:55.55] 
+[01:48.24] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:49.90] L'onde d'espoir
+[01:50.26] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:51.37] L'onde d'espoir
+[01:51.51] Sens, au cœur de la nuit (au cœur de la nuit)
+[01:52.38] L'onde d'espoir
+[01:52.65] Ardeur de la vie
+[01:52.91] Sentier de gloire
+[02:01.41] 
+[01:53.63] Vois sur ton chemin, gamins oubliés, égarés
+[01:57.21] Donne-leur la main pour les mener vers d'autres lendemains
+[02:01.67] (Donne-leur la main pour les mener vers d'autres lendemains)
+[02:31.67] 
+[02:02.99] Sens, au cœur de la nuit (au cœur de la nuit)
+[02:05.19] L'onde d'espoir, ardeur de la vie
+[02:06.39] Sentier de
+[02:10.52] Sens, au cœur de la nuit (au cœur de la nuit)
+[02:11.93] L'onde d'espoir
+[02:12.18] Ardeur de la vie
+```
