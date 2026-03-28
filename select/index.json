@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Vois sur ton chemin (Techno Mix)",
+  "base_artist": "BENNETT",
+  "createdAt": "2026-03-28T06:50:56.658674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/01_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/02_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "Brano",
+      "has_synced": true,
+      "path": "select/03_Vois_sur_ton_chemin_(Techno_Mix)_Brano.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin - Techno Mix",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/04_Vois_sur_ton_chemin_-_Techno_Mix_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/05_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "Bennett",
+      "has_synced": true,
+      "path": "select/06_Vois_sur_ton_chemin_(Techno_Mix)_Bennett.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/07_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "Bennett",
+      "has_synced": true,
+      "path": "select/08_Vois_sur_ton_chemin_(Techno_Mix)_Bennett.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "Video • BENNETT",
+      "has_synced": true,
+      "path": "select/09_Vois_sur_ton_chemin_(Techno_Mix)_Video_•_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/10_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "BENNETT",
+      "has_synced": true,
+      "path": "select/11_Vois_sur_ton_chemin_(Techno_Mix)_BENNETT.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Vois sur ton chemin (Techno Mix)",
+      "artist": "Bennett",
+      "has_synced": true,
+      "path": "select/12_Vois_sur_ton_chemin_(Techno_Mix)_Bennett.lrc"
+    }
+  ]
+}
